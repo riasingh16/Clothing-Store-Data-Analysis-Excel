@@ -1,4 +1,4 @@
-# Clothing Store Analysis
+# Kristen's Clothing Store: 2022 Sales Insights and Strategy
 
 ## Project Overview:
 
